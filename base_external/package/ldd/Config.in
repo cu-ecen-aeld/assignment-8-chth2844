@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+		Loads linux kernel driver support packages
